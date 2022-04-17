@@ -22,6 +22,8 @@ T - 사고적
 네번째 자리
 J - 판단적
 P - 인식적
+
+위의 정보를 이용하여 MBTI를 입력받아 입력받은 MBTI를 해석해주는 웹페이지를 만드시오
 ```
 
 ![image](https://user-images.githubusercontent.com/21700482/163701977-06ac29cc-a831-4878-ba98-728dca6af44b.png)
